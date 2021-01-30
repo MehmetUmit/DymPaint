@@ -8,5 +8,5 @@ Paint application for daily usage based on java swing
 * Color picker
 * Eraser
 * Undo and redo
-##Quick Look
+## Quick Look
 ![demonstration](https://github.com/MehmetUmit/DymPaint/blob/main/quicklook.gif)
