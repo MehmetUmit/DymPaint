@@ -9,4 +9,4 @@ Paint application for daily usage based on java swing
 * Eraser
 * Undo and redo
 ##Quick Look
-![demonstration]https://github.com/MehmetUmit/DymPaint/blob/main/quicklook.gif
+![demonstration](https://github.com/MehmetUmit/DymPaint/blob/main/quicklook.gif)
