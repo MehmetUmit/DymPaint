@@ -8,5 +8,8 @@ Paint application for daily usage based on java swing
 * Color picker
 * Eraser
 * Undo and redo
+* Resize
+* Zoom
+* New, open and save file operations
 ## First Look
 ![demonstration](https://github.com/MehmetUmit/DymPaint/blob/main/firstLook.gif)
